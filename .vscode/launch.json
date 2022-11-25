@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.cc.java.App",
+            "projectName": "04a_Static_Classes_bddc6186"
+        },
+        {
+            "type": "java",
+            "name": "<Let`s Go!",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
